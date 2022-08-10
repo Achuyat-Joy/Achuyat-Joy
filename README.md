@@ -1,4 +1,4 @@
-### I am aspiring web developer, currently learning the hacks to make it efficient. Love to solve problems to look it cool on screen. Looking for internship or any front-end project to work on.  
+### I am an aspiring web developer currently learning the hacks to make it efficient. Love to solve problems to look it cool on screen. Looking for an internship or any front-end project to work on.
 
 <!--
 **Achuyat-Joy/Achuyat-Joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
