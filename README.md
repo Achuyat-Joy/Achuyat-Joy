@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Linkedin](https://www.linkedin.com/in/achuyat-saha-joy-32a987128/) 📫achuyat.saha@northsouth.edu
+[Linkedin](https://www.linkedin.com/in/achuyat-saha-joy-32a987128/) 
+📫achuyat.saha@northsouth.edu
