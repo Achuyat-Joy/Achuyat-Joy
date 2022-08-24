@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 [Linkedin](https://www.linkedin.com/in/achuyat-saha-joy-32a987128/) 
 📫achuyat.saha@northsouth.edu
+
+https://www.codewars.com/users/Achuyat-Joy/badges/micro?theme=light
