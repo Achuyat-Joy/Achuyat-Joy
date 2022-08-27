@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [Linkedin](https://www.linkedin.com/in/achuyat-saha-joy-32a987128/) 
+<br>
 📫achuyat.saha@northsouth.edu
 
 <img src="https://www.codewars.com/users/Achuyat-Joy/badges/micro?theme=light">
