@@ -1,7 +1,7 @@
 ### I am an aspiring web developer currently learning the hacks to make it efficient. 
 Love to solve problems to look it cool on screen. Looking for an internship or any front-end project to work on.
 <br>
-<strong>fhiha</strong>
+I am good with <strong>html, css, javascript, sass, boostrap, jQuery</strong> or any given required task. 
 
 <!--
 **Achuyat-Joy/Achuyat-Joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
