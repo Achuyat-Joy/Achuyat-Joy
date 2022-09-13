@@ -9,7 +9,6 @@ Reasons to believe:
 2. [Quiz page layout](https://quiz-accessibilty.vercel.app)
 3. [Balance Sheet](https://balance-sheet-iota.vercel.app/)[ | Typography](https://typography-by-fcc.vercel.app/)
 4. [Card](https://nft-preview-card-component-five-topaz.vercel.app/)[ | QR Card](https://qr-component-eosin.vercel.app/)[ | Testimonials](https://testimonials-using-grid.vercel.app/)
-5. 
 
 <!--
 **Achuyat-Joy/Achuyat-Joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
