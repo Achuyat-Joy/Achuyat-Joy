@@ -5,7 +5,9 @@ I am good with <strong>html, css, javascript, sass, boostrap, jQuery</strong> or
 <br>
 Reasons to believe: 
 <br>
-1. <a href="https://website-using-bootstrap5.vercel.app" target="_blank">Single page website layout with vaious options</a>
+1. [Single page website layout with vaious options](https://website-using-bootstrap5.vercel.app)
+2. [Quiz page layout](a href="https://quiz-accessibilty.vercel.app)
+3. [Balance Sheet](https://balance-sheet-iota.vercel.app/)[ | Typography](https://typography-by-fcc.vercel.app/)
 
 <!--
 **Achuyat-Joy/Achuyat-Joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
