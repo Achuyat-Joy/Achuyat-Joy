@@ -28,3 +28,5 @@ Here are some ideas to get you started:
 📫achuyat.saha@northsouth.edu
 
 <img src="https://www.codewars.com/users/Achuyat-Joy/badges/micro?theme=light">
+
+My hobby is watching movies and capturing moments.
