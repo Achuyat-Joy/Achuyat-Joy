@@ -1,7 +1,7 @@
 ### I am a front-end developer currently learning the hacks to make it more efficient. 
 Love to solve problems to look it cool on screen. Looking for an internship or any front-end project to work on.
 <br>
-I am good with <strong>html, css, javascript, sass, boostrap, jQuery</strong> or any given required task. 
+I am good with <strong>html, css, javascript, react, sass, boostrap, jQuery</strong> or any given required task. 
 <br>
 Reasons to believe: 
 <br>
