@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Linkedin](https://www.linkedin.com/in/achuyat-saha-joy-32a987128/) 
+>>[Linkedin](https://www.linkedin.com/in/achuyat-saha-joy-32a987128/) 
 
 
 <img src="https://www.codewars.com/users/Achuyat-Joy/badges/micro?theme=light">
