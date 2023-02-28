@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [Linkedin](https://www.linkedin.com/in/achuyat-saha-joy-32a987128/) 
-📫click2js@gmail.com
+
 
 <img src="https://www.codewars.com/users/Achuyat-Joy/badges/micro?theme=light">
 
