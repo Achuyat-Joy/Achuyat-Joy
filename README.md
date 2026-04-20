@@ -1,3 +1,10 @@
+### I am an aspiring data analyst, currently learning the hacks to make it more efficient. 
+Love to solve problems to look it cool on screen. Looking for any project to work on.
+<br>
+I am good with <strong>SQL, Excel and Tableau/Power BI</strong> or any given required task. 
+<br>
+<!--
+
 ### I am a front-end developer currently learning the hacks to make it more efficient. 
 Love to solve problems to look it cool on screen. Looking for any front-end project to work on.
 <br>
@@ -12,7 +19,8 @@ Reasons to believe:
 5. [Balance Sheet](https://balance-sheet-iota.vercel.app/)[ | Typography](https://typography-by-fcc.vercel.app/)
 6. [Card](https://nft-preview-card-component-five-topaz.vercel.app/)[ | QR Card](https://qr-component-eosin.vercel.app/)[ | Testimonials](https://testimonials-using-grid.vercel.app/)
 
-<!--
+(my previous version is on the top and a suggestion in down)
+
 **Achuyat-Joy/Achuyat-Joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
