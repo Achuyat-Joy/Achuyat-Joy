@@ -1,4 +1,4 @@
-### I am an aspiring data analyst, currently learning the hacks to make it more efficient. 
+### I am JOY, an aspiring data analyst, currently learning the hacks to make it more efficient. 
 Love to solve problems to look it cool on screen. Looking for any project to work on.
 <br>
 I am good with <strong>SQL, Excel and Tableau/Power BI</strong> or any given required task. 
